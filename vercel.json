@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/TaskPlanner/(.*)",
+        "destination": "/TaskPlanner/$1"
+      }
+    ]
+  }
+  
